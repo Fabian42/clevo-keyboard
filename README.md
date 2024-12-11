@@ -82,11 +82,9 @@ For convenience, on platforms where DKMS is in use, skip to the DKMS section dir
 ## Clone the Git Repo:
 
 ```sh
-git clone https://github.com/tuxedocomputers/tuxedo-keyboard.git
+git clone https://github.com/wessel-novacustom/clevo-keyboard.git
 
-cd tuxedo-keyboard
-
-git checkout release
+cd clevo-keyboard
 ```
 
 ## Build the Module:
